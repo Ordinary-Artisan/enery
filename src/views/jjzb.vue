@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-首页
+经济指标
   </div>
 </template>
 
